@@ -21,7 +21,7 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Key Features:** It has visually appealing colors and is highly responsive with a touch of animation.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/Hydra-Landing-Page)
 
-### [GFurniture E-Commerce Web Application]
+### GFurniture E-Commerce Web Application
 - **Description:** A furniture E-Commerce store where users can purchase furnitures and get it delivered at their preferred location.
 - **Technologies Used:** React.js
 - **Key Features:** This is a React-based app and the users preferences and their orders on the app are simply stored in the local storage as a frontend-only app. This was used to perfect my React skill.
@@ -33,13 +33,13 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Key Features:** Allows users to enroll in courses, earn XP and badges, and interact with games. The virtual reality and the gaming part of it is the big part and it's a work in progress.
 - **Link to GitHub Repository:** [Repository](https://github.com/TeamSushiSui/EduverseX-smart-contract/blob/main/smart-contracts%2FeduverseX_database%2Fsources%2Feduversex_database.move)
 
-### [A Next Quiz App]
+### A Next Quiz App
 - **Description:** A Quiz App made with Next.js and specifically for a student community on campus for students to learn and practice against their exams in school. This is strictly for students across all levels in my campus.
 - **Technologies Used:** Next.js | Node.js | Express.js | Mongodb
 - **Key Features:** Students can take tests based on the time given by the examiner and get their results immediately, no user can do a test more than once and it has a good user interface. Students can download their results either as PDF or png image file immediately after the exam. It also include a landing page for the organization.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/A-Next.js-Quiz-App)
 
-### [Nordic Legend App]
+### Nordic Legend App
 - **Description:** This is an NFT project that I'm part of. This is just the landing page for now.
 - **Technologies Used:** React.js
 - **Key Features:** It features the display of some various arts that the NFT project is bringing on. It also features the details that the visitors need to know about the projec and it has visually-appealing colors, designs and the animations in there are what makes it standout from other landing pages that I've built.
