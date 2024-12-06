@@ -36,13 +36,13 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 ### A Next Quiz App
 - **Description:** A Quiz App made with Next.js and specifically for a student community on campus for students to learn and practice against their exams in school. This is strictly for students across all levels in my campus.
 - **Technologies Used:** Next.js | Node.js | Express.js | Mongodb
-- **Key Features:** Students can take tests based on the time given by the examiner and get their results immediately, no user can do a test more than once and it has a good user interface. Students can download their results either as PDF or png image file immediately after the exam. It also include a landing page for the organization.
+- **Key Features:** Students can take tests based on the time given by the examiner and get their results immediately, no user can do a test more than once and it has a good user interface. Students can download their results either as a PDF or png image file immediately after the exam. It also include a landing page for the organization.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/A-Next.js-Quiz-App)
 
 ### Nordic Legend App
 - **Description:** This is an NFT project that I'm part of. This is just the landing page for now.
 - **Technologies Used:** React.js
-- **Key Features:** It features the display of some various arts that the NFT project is bringing on. It also features the details that the visitors need to know about the projec and it has visually-appealing colors, designs and the animations in there are what makes it standout from other landing pages that I've built.
+- **Key Features:** It features the display of some various collection that the NFT project is bringing on. It also features the details that the visitors need to know about the project and it has visually-appealing colors, designs and the animations in there are what makes it standout from other landing pages that I've built.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/nordic-legends-project)
 
 ## Contact me 
