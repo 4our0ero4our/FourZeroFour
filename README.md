@@ -1,10 +1,14 @@
-# Oparemi Muhammed Kolapo | Next.js | React.js | Frontend Developer
+# Oparemi Muhammed Kolapo | Next.js | React.js | Frontend Developer 
 
 I am a Frontend developer specializing in javascript frameworks like React.js and Next.js with experience integrating blockchain into frontend of web applications. I have growing expertise in fullstack development with the MERN stack and mobile app development with React Native. 
+
+---
 
 ## About Me
 
 I am currently pursuing a Bachelor of Engineering at the Federal University of Technology, Minna. I also specialize in frontend development with a passion for crafting cutting-edge applications using Next.js, React.js while expanding my skills in backend and mobile app development with React Native. I am a blockchain enthusiast and I love learning, building and exploring opportunites in the tech and web3 space.
+
+---
 
 ## Skills
 
@@ -61,14 +65,40 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 #### [Nordic Legend App](https://www.nordiclegends.xyz/)
 - **Description:** This is an NFT project that I work with. It has three pages: the landing page, the mint page and the connect wallet page. I am experienced with integrating blockchain into frontend of web applications.
 - **Technologies Used:** React.js
-- **Key Features:** It features the display of some various collection that the NFT project has. It also features the details that the visitors need to know about the project and it has visually-appealing colors, designs and the animations in there makes it standout.
-- **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/nordic-legends-project)
+- **Key Features:** It features the display of some various collection that the NFT project has. It also features the details that the visitors need to know about the project and it has visually-appealing colors, designs and the animations in there makes it standout. Repository is private but you can check out the live web app.
+- **Link to GitHub Repository:** [Repository is private](https://github.com/FourZeroFour-404M/nordic-legends-project)
+
+---
+
+## Team
+
+### [Team Sushi (Powered by Sui on Campus)](https://github.com/TeamSushiSui)
+
+I am the **Frontend Lead Dev** of **Team Sushi**, a collaborative group of blockchain enthusiasts and developers building innovative solutions on the Sui blockchain.
+
+### Projects:
+- [EduXverse](https://edu-xverse-frontend.vercel.app/home): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
+- [Payfrica](https://payfrica.vercel.app/): A **payment system** bridging Africans to the Sui Network.
+
+### Socials
+**X (Twitter):** [X](https://x.com/TeamSushi_)
+
+### [Google Developer Groups on Campus](https://gdg.community.dev/gdg-on-campus-federal-university-of-technology-minna-nigeria/)
+
+I am the **Frontend Lead** of the **Google Developer Groups on Campus**, a group of developers building innovative solutions and learning.
+
+### Socials
+**X (Twitter):** [X](https://x.com/GDGoC_Futminna)
+
+---
 
 ## Contact me 
 
-- **website:** Coming soon...
-- **GitHub:** (https://github.com/FourZeroFour-404M)
-- **X:** (https://x.com/4ourZero4our)
-- **Email:** (oparemimuhammedkolapo@gmail.com)
+- **Website:** Coming soon...
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/4our0ero4our)
+- ![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [X (Twitter)](https://x.com/4our0ero4our)
+- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/four0ero4our)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) [Discord](4our0ero4our)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Email](mailto:oparemimuhammedkolapo@gmail.com)
 
-Thanks for visiting my portfolio! 😊
+**Thanks for visiting my portfolio! 😊**
