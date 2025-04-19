@@ -78,7 +78,7 @@ I am the **Frontend Lead Dev** of **Team Sushi**, a collaborative group of block
 
 ### Projects:
 - [EduXverse](https://edu-xverse-frontend.vercel.app/home): A **virtual reality ecosystem** on Sui where users can **learn, earn, interact, and play games**.
-- [Payfrica](https://payfrica.vercel.app/): A **payment system** bridging Africans to the Sui Network.
+- [Payfrica]: A **payment system** bridging Africans to the Sui Network.
 
 ### Socials
 **X (Twitter):** [X](https://x.com/TeamSushi_)
