@@ -46,6 +46,12 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Key Features:** This is a React-based web app and the users preferences and their orders on the app are simply stored in the local storage as a frontend-only app. This was used to perfect my React skill.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/gfurniture-ecommerce-web-app-main)
 
+#### Witty's Tech Platform
+- **Description:** Witty's Tech is a modern Next.js web platform for digital identity and business services (NIN/BVN), bulk recharge, and an aggregator portal for partners. This project showcases my work building production-ready dashboards, configurable pricing, and branded subdomains. I led the frontend development with a focus on responsive UI, intuitive navigation, and UX polish (logo preview, copy-to-clipboard, color theming, success toasts).
+- **Technologies Used:** Next.js 15 (App Router), React 19, React Icons, jsPDF, jspdf-autotable, CSS Modules/Global CSS
+- **Key Features:** Aggregator settings (business info, banking, subdomain, branding), dynamic services pricing with profit calculation, NIN and BVN service modules, bulk recharge section, transaction PIN setup, transaction history, responsive landing page with testimonials/stats, and a collapsible sidebar with active-route highlighting.
+- **Link to GitHub Repository:** [Repository](https://github.com/USERNAME/REPO)
+
 ### **Fullstack Development**
 
 #### A Next Quiz App
@@ -69,6 +75,14 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Link to GitHub Repository:** [Repository is private](https://github.com/FourZeroFour-404M/nordic-legends-project)
 
 ---
+
+### **Mobile App Development (React Native)**
+
+#### SuiStep App
+- **Description:** SuiStep is a groundbreaking mobile application paired with a smart in-shoe device, developed for the Sui Impossible Challenge (June/July 2025 Edition). This project showcases my skills in React Native, Bluetooth Low Energy (BLE) integration, and blockchain technology by creating a wearable cold wallet that uses toe-tap Morse code for 2FA transaction signing on the Sui network. It was my first deep dive into hardware-software integration and a proud milestone in my development journey. I worked as the mobile app developer on this project using my React Native expertise.
+- **Technologies Used:** React Native, react-native-ble-manager, react-native-webview, @mysten/sui.js, ESP32 (firmware with Arduino), Bluetooth LE
+- **Key Features:** Secure offline wallet with gesture-based 2FA, emergency wipe functionality, real-time BLE connectivity, support for up to 3 wallet addresses, and a step counter bonus feature. The app features a sleek dark theme with orange accents, responsive design, and intuitive navigation.
+- **Link to GitHub Repository:** [Repository](https://github.com/4our0ero4our/Sui-Step)
 
 ## Team
 
