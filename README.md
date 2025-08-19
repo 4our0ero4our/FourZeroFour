@@ -50,7 +50,7 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Description:** Witty's Tech is a modern Next.js web platform for digital identity and business services (NIN/BVN), bulk recharge, and an aggregator portal for partners. This project showcases my work building production-ready dashboards, configurable pricing, and branded subdomains. I led the frontend development with a focus on responsive UI, intuitive navigation, and UX polish (logo preview, copy-to-clipboard, color theming, success toasts).
 - **Technologies Used:** Next.js 15 (App Router), React 19, React Icons, jsPDF, jspdf-autotable, CSS Modules/Global CSS
 - **Key Features:** Aggregator settings (business info, banking, subdomain, branding), dynamic services pricing with profit calculation, NIN and BVN service modules, bulk recharge section, transaction PIN setup, transaction history, responsive landing page with testimonials/stats, and a collapsible sidebar with active-route highlighting.
-- **Link to GitHub Repository:** [Repository](https://github.com/USERNAME/REPO)
+- **Link to GitHub Repository:** [Repository](https://github.com/4our0ero4our/wittytech)
 
 ### **Fullstack Development**
 
