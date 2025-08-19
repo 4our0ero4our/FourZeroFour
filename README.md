@@ -46,7 +46,7 @@ I am currently pursuing a Bachelor of Engineering at the Federal University of T
 - **Key Features:** This is a React-based web app and the users preferences and their orders on the app are simply stored in the local storage as a frontend-only app. This was used to perfect my React skill.
 - **Link to GitHub Repository:** [Repository](https://github.com/FourZeroFour-404M/gfurniture-ecommerce-web-app-main)
 
-#### Witty's Tech Platform
+#### [Witty's Tech Platform](https://wittytech.vercel.app/)
 - **Description:** Witty's Tech is a modern Next.js web platform for digital identity and business services (NIN/BVN), bulk recharge, and an aggregator portal for partners. This project showcases my work building production-ready dashboards, configurable pricing, and branded subdomains. I led the frontend development with a focus on responsive UI, intuitive navigation, and UX polish (logo preview, copy-to-clipboard, color theming, success toasts).
 - **Technologies Used:** Next.js 15 (App Router), React 19, React Icons, jsPDF, jspdf-autotable, CSS Modules/Global CSS
 - **Key Features:** Aggregator settings (business info, banking, subdomain, branding), dynamic services pricing with profit calculation, NIN and BVN service modules, bulk recharge section, transaction PIN setup, transaction history, responsive landing page with testimonials/stats, and a collapsible sidebar with active-route highlighting.
